@@ -81,5 +81,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "postcss": "^8.4.33"
   }
 }
